@@ -93,6 +93,10 @@
 
     Missing required fields produce cryptic `TypeError` messages instead of clear configuration errors.
 
+14. **Missing comments and docstrings**
+
+    A significant number of files missing docstrings and comments.
+
 ---
 
 ### Tests
