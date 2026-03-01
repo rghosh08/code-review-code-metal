@@ -60,28 +60,39 @@
    This allows arbitrary Python object deserialization.  
    Should use `yaml.SafeLoader`.
 
+9. **Mistake in README**
+
+    ```python
+    sensor_pipeline pipeline.toml --input data/sensor_data.json
+    ```
+    should be 
+
+    ```python
+    sensor_pipeline sensor_pipeline.yaml --input data/sensor_data.json
+    ```
+
 ---
 
 ### Design / Architecture
 
-9. **No operator base class / interface**
+10. **No operator base class / interface**
 
    No abstract base class enforces implementation of `run()`.  
    Errors surface only at runtime.
 
-10. **Implicit coupling between operators — no schema validation**
+11. **Implicit coupling between operators — no schema validation**
 
     `Aggregate` and `AnomalyDetection` assume `GroupBy` ran first (`group["records"]`).  
     Missing `GroupBy` causes a runtime `KeyError`.
 
-11. **`GroupBy` breaks streaming model**
+12. **`GroupBy` breaks streaming model**
 
     ```python
     sorted(records, ...)
     ```
     Materializes entire input, defeating lazy iterator design.
 
-12. **`pipeline.load()` mutates parsed YAML dict**
+13. **`pipeline.load()` mutates parsed YAML dict**
 
     ```python
     opdef.pop("class")
@@ -89,11 +100,11 @@
     ```
     Mutates parsed data, complicating debugging.
 
-13. **Missing YAML field validation**
+14. **Missing YAML field validation**
 
     Missing required fields produce cryptic `TypeError` messages instead of clear configuration errors.
 
-14. **Missing comments and docstrings**
+15. **Missing comments and docstrings**
 
     A significant number of files missing docstrings and comments.
 
@@ -101,12 +112,12 @@
 
 ### Tests
 
-14. **Empty test stubs**
+16. **Empty test stubs**
 
     `test_convert_temperature`, `test_aggregate`, and `test_anomoly_detection` are `pass`.  
     They provide false confidence.
 
-15. **Commented-out assertion in `test_convert_timezone`**
+17. **Commented-out assertion in `test_convert_timezone`**
 
     ```python
     # Here I am not sure why the dst is incorrect.
@@ -114,7 +125,7 @@
     ```
     An unresolved bug was bypassed rather than fixed.
 
-16. **`pipeline_test.py` mock mismatch**
+18. **`pipeline_test.py` mock mismatch**
 
     `pipeline.load()` opens files in binary mode (`"rb"`), but tests mock with `io.StringIO` (text mode).  
     Works coincidentally with PyYAML but is fragile.
@@ -125,12 +136,12 @@
 
 ### Bugs
 
-17. **`main.cpp:53` — Unchecked `argv[1]` access**
+19. **`main.cpp:53` — Unchecked `argv[1]` access**
 
     If invoked with no arguments, accessing `argv[1]` is undefined behavior.  
     Must check `argc`.
 
-18. **`cacheHit()` — `stat()` failure does not invalidate cache**
+20. **`cacheHit()` — `stat()` failure does not invalidate cache**
 
     ```cpp
     int rc = stat(dependency.c_str(), &file_stat);
@@ -141,16 +152,16 @@
     ```
     Missing or inaccessible dependency files should cause a cache miss.
 
-19. **No file locking — race condition**
+21. **No file locking — race condition**
 
     Concurrent `make -j` builds can corrupt `cache.json`.
 
-20. **`std::hash<std::string>` collisions overwrite artifacts**
+22. **`std::hash<std::string>` collisions overwrite artifacts**
 
     Hash collisions cause different build commands to share a cache slot.  
     Could return incorrect artifacts.
 
-21. **`extractDeps()` — Fragile Makefile dependency parsing**
+23. **`extractDeps()` — Fragile Makefile dependency parsing**
 
     Does not handle:
     - Line continuations (`\`)
@@ -159,7 +170,7 @@
 
     May silently produce incorrect dependency lists.
 
-22. **Build command reconstruction loses quoting**
+24. **Build command reconstruction loses quoting**
 
     ```cpp
     build_cmd.append(" ");
@@ -171,16 +182,16 @@
 
 ### Design
 
-23. **No cache eviction / size limit**
+25. **No cache eviction / size limit**
 
     Cache grows indefinitely and may consume significant disk space.
 
-24. **Entire `cache.json` loaded on every invocation**
+26. **Entire `cache.json` loaded on every invocation**
 
     Inefficient for large caches.  
     Indexed format or SQLite would scale better.
 
-25. **Artifacts and index mixed in same directory**
+27. **Artifacts and index mixed in same directory**
 
     `/tmp/buildcache/` contains both `cache.json` and `<hash>.o` files.  
     Separating (e.g., `cache.json` + `objects/`) would improve manageability.
