@@ -1,0 +1,4002 @@
+[
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T21:22:44.052986Z",
+    "temperature_c": -13.6,
+    "humidity": 43.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T18:33:44.053032Z",
+    "temperature_c": 36.0,
+    "humidity": 40.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T18:11:44.053048Z",
+    "temperature_c": 58.8,
+    "humidity": 26.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T02:10:44.053059Z",
+    "temperature_c": 70.3,
+    "humidity": 17.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T12:48:44.053077Z",
+    "temperature_c": -18.5,
+    "humidity": 62.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T22:46:44.053088Z",
+    "temperature_c": 75.7,
+    "humidity": 21.8,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-27T14:59:44.053098Z",
+    "temperature_c": -5.0,
+    "humidity": 9.3,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T02:59:44.053117Z",
+    "temperature_c": -9.8,
+    "humidity": 92.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T10:10:44.053133Z",
+    "temperature_c": -8.2,
+    "humidity": 93.5,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T13:23:44.053143Z",
+    "temperature_c": -14.9,
+    "humidity": 26.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T15:32:44.053154Z",
+    "temperature_c": -6.2,
+    "humidity": 33.6,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T03:02:44.053163Z",
+    "temperature_c": 33.5,
+    "humidity": 29.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T04:45:44.053172Z",
+    "temperature_c": -1.8,
+    "humidity": 27.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T18:09:44.053184Z",
+    "temperature_c": -18.8,
+    "humidity": 7.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T04:56:44.053199Z",
+    "temperature_c": 35.5,
+    "humidity": 92.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T04:58:44.053214Z",
+    "temperature_c": 10.2,
+    "humidity": 71.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T11:30:44.053227Z",
+    "temperature_c": 20.8,
+    "humidity": 11.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T20:14:44.053236Z",
+    "temperature_c": 71.9,
+    "humidity": 16.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T08:31:44.053245Z",
+    "temperature_c": 58.8,
+    "humidity": 73.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T05:34:44.053254Z",
+    "temperature_c": -19.9,
+    "humidity": 17.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T00:40:44.053269Z",
+    "temperature_c": 43.2,
+    "humidity": 94.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T13:14:44.053285Z",
+    "temperature_c": 51.6,
+    "humidity": 64.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T23:29:44.053300Z",
+    "temperature_c": 20.1,
+    "humidity": 66.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-27T12:27:44.053320Z",
+    "temperature_c": -2.6,
+    "humidity": 69.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T17:26:44.053335Z",
+    "temperature_c": 75.8,
+    "humidity": 84.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T22:31:44.053356Z",
+    "temperature_c": 51.2,
+    "humidity": 38.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T01:36:44.053365Z",
+    "temperature_c": 2.7,
+    "humidity": 42.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T09:27:44.053374Z",
+    "temperature_c": -12.4,
+    "humidity": 90.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T18:54:44.053382Z",
+    "temperature_c": 64.8,
+    "humidity": 58.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T05:35:44.053393Z",
+    "temperature_c": 33.3,
+    "humidity": 40.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T01:46:44.053402Z",
+    "temperature_c": 38.1,
+    "humidity": 83.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T00:40:44.053411Z",
+    "temperature_c": 63.6,
+    "humidity": 45.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T14:11:44.053430Z",
+    "temperature_c": 26.9,
+    "humidity": 11.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-21T03:40:44.053445Z",
+    "temperature_c": 42.8,
+    "humidity": 43.3,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T13:53:44.053470Z",
+    "temperature_c": 28.6,
+    "humidity": 61.4,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T16:30:44.053479Z",
+    "temperature_c": 76.1,
+    "humidity": 15.2,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T21:30:44.053488Z",
+    "temperature_c": 49.2,
+    "humidity": 5.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T07:10:44.053497Z",
+    "temperature_c": 71.3,
+    "humidity": 89.8,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T15:05:44.053505Z",
+    "temperature_c": -1.7,
+    "humidity": 83.0,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T14:23:44.053514Z",
+    "temperature_c": 73.5,
+    "humidity": 5.7,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T09:31:44.053522Z",
+    "temperature_c": -13.4,
+    "humidity": 46.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T07:02:44.053532Z",
+    "temperature_c": 28.2,
+    "humidity": 7.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T23:55:44.053540Z",
+    "temperature_c": -19.6,
+    "humidity": 68.2,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T00:11:44.053549Z",
+    "temperature_c": 78.0,
+    "humidity": 21.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T23:43:44.053557Z",
+    "temperature_c": 48.9,
+    "humidity": 70.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T02:57:44.053569Z",
+    "temperature_c": 37.8,
+    "humidity": 22.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T01:47:44.053584Z",
+    "temperature_c": 15.8,
+    "humidity": 78.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T00:37:44.053603Z",
+    "temperature_c": 10.3,
+    "humidity": 43.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T03:51:44.053612Z",
+    "temperature_c": 27.8,
+    "humidity": 87.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-21T23:27:44.053621Z",
+    "temperature_c": 42.0,
+    "humidity": 51.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T09:36:44.053629Z",
+    "temperature_c": 28.5,
+    "humidity": 41.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T07:18:44.053638Z",
+    "temperature_c": 57.3,
+    "humidity": 64.5,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T12:13:44.053647Z",
+    "temperature_c": 72.0,
+    "humidity": 33.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T09:40:44.053656Z",
+    "temperature_c": 67.1,
+    "humidity": 15.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T03:23:44.053665Z",
+    "temperature_c": 58.3,
+    "humidity": 7.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T17:12:44.053674Z",
+    "temperature_c": 3.5,
+    "humidity": 6.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T15:03:44.053682Z",
+    "temperature_c": 46.3,
+    "humidity": 15.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T04:08:44.053691Z",
+    "temperature_c": -15.0,
+    "humidity": 57.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T02:11:44.053701Z",
+    "temperature_c": 72.6,
+    "humidity": 15.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T01:53:44.053709Z",
+    "temperature_c": 54.5,
+    "humidity": 73.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T09:26:44.053719Z",
+    "temperature_c": 8.7,
+    "humidity": 63.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T10:54:44.053727Z",
+    "temperature_c": 72.6,
+    "humidity": 91.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T13:43:44.053736Z",
+    "temperature_c": 7.3,
+    "humidity": 39.4,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T05:44:44.053744Z",
+    "temperature_c": 68.0,
+    "humidity": 26.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T05:45:44.053753Z",
+    "temperature_c": -4.2,
+    "humidity": 77.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T20:03:44.053762Z",
+    "temperature_c": -13.0,
+    "humidity": 92.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T00:00:44.053771Z",
+    "temperature_c": 67.7,
+    "humidity": 62.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T22:29:44.053779Z",
+    "temperature_c": 62.3,
+    "humidity": 48.1,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T13:41:44.053788Z",
+    "temperature_c": 51.2,
+    "humidity": 79.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T23:11:44.053796Z",
+    "temperature_c": 19.0,
+    "humidity": 81.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T21:57:44.053804Z",
+    "temperature_c": 46.1,
+    "humidity": 93.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T01:13:44.053812Z",
+    "temperature_c": 52.0,
+    "humidity": 38.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T12:54:44.053823Z",
+    "temperature_c": 44.1,
+    "humidity": 80.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T18:42:44.053832Z",
+    "temperature_c": 30.1,
+    "humidity": 62.0,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T21:37:44.053840Z",
+    "temperature_c": 51.5,
+    "humidity": 12.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T04:04:44.053849Z",
+    "temperature_c": -1.1,
+    "humidity": 89.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T22:36:44.053858Z",
+    "temperature_c": 24.5,
+    "humidity": 91.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T21:14:44.053866Z",
+    "temperature_c": -9.2,
+    "humidity": 41.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T03:11:44.053875Z",
+    "temperature_c": 70.2,
+    "humidity": 25.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T16:30:44.053884Z",
+    "temperature_c": -1.5,
+    "humidity": 82.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T09:25:44.053893Z",
+    "temperature_c": 60.1,
+    "humidity": 65.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T13:14:44.053903Z",
+    "temperature_c": -19.8,
+    "humidity": 37.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T03:14:44.053918Z",
+    "temperature_c": 51.5,
+    "humidity": 87.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-21T08:43:44.053932Z",
+    "temperature_c": -11.6,
+    "humidity": 37.7,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T09:20:44.053944Z",
+    "temperature_c": 79.8,
+    "humidity": 17.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T21:11:44.053963Z",
+    "temperature_c": 42.1,
+    "humidity": 19.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T16:05:44.053976Z",
+    "temperature_c": 32.7,
+    "humidity": 83.9,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T02:36:44.053985Z",
+    "temperature_c": 52.9,
+    "humidity": 21.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T18:07:44.053993Z",
+    "temperature_c": 52.6,
+    "humidity": 66.9,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T09:47:44.054002Z",
+    "temperature_c": 61.3,
+    "humidity": 90.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T23:58:44.054011Z",
+    "temperature_c": 2.2,
+    "humidity": 13.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T03:03:44.054020Z",
+    "temperature_c": 27.4,
+    "humidity": 47.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T18:13:44.054029Z",
+    "temperature_c": 12.9,
+    "humidity": 48.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T02:03:44.054038Z",
+    "temperature_c": 29.8,
+    "humidity": 40.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T02:30:44.054047Z",
+    "temperature_c": 13.8,
+    "humidity": 85.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T11:59:44.054055Z",
+    "temperature_c": 19.5,
+    "humidity": 70.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T14:49:44.054064Z",
+    "temperature_c": 3.5,
+    "humidity": 18.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T19:11:44.054073Z",
+    "temperature_c": -2.3,
+    "humidity": 81.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-21T20:39:44.054081Z",
+    "temperature_c": 39.3,
+    "humidity": 79.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T14:17:44.054090Z",
+    "temperature_c": -1.2,
+    "humidity": 56.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T16:10:44.054100Z",
+    "temperature_c": 49.6,
+    "humidity": 36.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-27T05:03:44.054108Z",
+    "temperature_c": 53.6,
+    "humidity": 80.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T00:10:44.054117Z",
+    "temperature_c": 8.7,
+    "humidity": 62.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T05:23:44.054127Z",
+    "temperature_c": -11.9,
+    "humidity": 36.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T02:59:44.054136Z",
+    "temperature_c": 1.6,
+    "humidity": 59.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T23:44:44.054145Z",
+    "temperature_c": -10.4,
+    "humidity": 70.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-21T11:38:44.054153Z",
+    "temperature_c": 44.7,
+    "humidity": 52.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T10:51:44.054162Z",
+    "temperature_c": 53.8,
+    "humidity": 71.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T15:20:44.054171Z",
+    "temperature_c": -10.0,
+    "humidity": 67.2,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T09:35:44.054180Z",
+    "temperature_c": 75.7,
+    "humidity": 16.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-26T11:35:44.054189Z",
+    "temperature_c": 50.8,
+    "humidity": 41.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T13:47:44.054197Z",
+    "temperature_c": 40.1,
+    "humidity": 38.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T11:22:44.054206Z",
+    "temperature_c": 31.5,
+    "humidity": 72.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T06:22:44.054214Z",
+    "temperature_c": 26.0,
+    "humidity": 53.3,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T01:51:44.054223Z",
+    "temperature_c": -16.7,
+    "humidity": 91.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T15:46:44.054232Z",
+    "temperature_c": 46.6,
+    "humidity": 21.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T06:31:44.054241Z",
+    "temperature_c": 62.4,
+    "humidity": 93.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T11:58:44.054250Z",
+    "temperature_c": 63.2,
+    "humidity": 30.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T10:02:44.054258Z",
+    "temperature_c": 76.8,
+    "humidity": 65.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T10:18:44.054271Z",
+    "temperature_c": 50.0,
+    "humidity": 58.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T04:34:44.054286Z",
+    "temperature_c": 43.1,
+    "humidity": 37.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T23:11:44.054301Z",
+    "temperature_c": 52.8,
+    "humidity": 9.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T09:53:44.054310Z",
+    "temperature_c": 16.7,
+    "humidity": 35.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T18:55:44.054319Z",
+    "temperature_c": 23.8,
+    "humidity": 65.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T09:11:44.054328Z",
+    "temperature_c": 7.3,
+    "humidity": 58.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T07:11:44.054336Z",
+    "temperature_c": -6.7,
+    "humidity": 47.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T19:56:44.054350Z",
+    "temperature_c": 22.1,
+    "humidity": 17.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T16:22:44.054364Z",
+    "temperature_c": 17.8,
+    "humidity": 64.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T15:26:44.054389Z",
+    "temperature_c": 54.7,
+    "humidity": 73.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T23:53:44.054405Z",
+    "temperature_c": 28.5,
+    "humidity": 43.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T17:53:44.054414Z",
+    "temperature_c": 37.8,
+    "humidity": 28.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T20:28:44.054423Z",
+    "temperature_c": -4.8,
+    "humidity": 57.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T00:47:44.054432Z",
+    "temperature_c": 9.3,
+    "humidity": 71.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T01:02:44.054440Z",
+    "temperature_c": 25.4,
+    "humidity": 37.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T23:12:44.054449Z",
+    "temperature_c": 1.1,
+    "humidity": 39.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T00:20:44.054458Z",
+    "temperature_c": 44.0,
+    "humidity": 25.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T06:49:44.054471Z",
+    "temperature_c": 61.6,
+    "humidity": 54.5,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T11:07:44.054480Z",
+    "temperature_c": 3.5,
+    "humidity": 21.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T11:34:44.054489Z",
+    "temperature_c": 66.9,
+    "humidity": 37.6,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T09:13:44.054497Z",
+    "temperature_c": 47.8,
+    "humidity": 34.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T12:39:44.054511Z",
+    "temperature_c": 56.8,
+    "humidity": 68.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T03:44:44.054532Z",
+    "temperature_c": -1.0,
+    "humidity": 27.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T02:27:44.054541Z",
+    "temperature_c": 74.6,
+    "humidity": 14.4,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T12:54:44.054549Z",
+    "temperature_c": 47.6,
+    "humidity": 26.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T12:02:44.054558Z",
+    "temperature_c": 1.7,
+    "humidity": 22.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T12:54:44.054566Z",
+    "temperature_c": 76.9,
+    "humidity": 89.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T00:17:44.054575Z",
+    "temperature_c": 25.9,
+    "humidity": 22.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T16:34:44.054584Z",
+    "temperature_c": 58.8,
+    "humidity": 58.8,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T04:27:44.054592Z",
+    "temperature_c": 5.5,
+    "humidity": 51.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T23:57:44.054601Z",
+    "temperature_c": -6.3,
+    "humidity": 83.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T06:59:44.054609Z",
+    "temperature_c": 17.2,
+    "humidity": 79.7,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T15:36:44.054618Z",
+    "temperature_c": 18.2,
+    "humidity": 35.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T20:34:44.054626Z",
+    "temperature_c": 79.0,
+    "humidity": 81.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T06:52:44.054635Z",
+    "temperature_c": 79.6,
+    "humidity": 81.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T04:17:44.054650Z",
+    "temperature_c": 44.3,
+    "humidity": 21.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T06:04:44.054664Z",
+    "temperature_c": 63.5,
+    "humidity": 25.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T16:34:44.054673Z",
+    "temperature_c": 11.4,
+    "humidity": 80.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T05:58:44.054681Z",
+    "temperature_c": 70.2,
+    "humidity": 89.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-26T22:38:44.054690Z",
+    "temperature_c": 32.7,
+    "humidity": 15.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T21:41:44.054699Z",
+    "temperature_c": 76.8,
+    "humidity": 47.0,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T19:38:44.054707Z",
+    "temperature_c": 77.0,
+    "humidity": 69.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T13:06:44.054716Z",
+    "temperature_c": -18.3,
+    "humidity": 54.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T10:25:44.054725Z",
+    "temperature_c": 72.5,
+    "humidity": 64.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T14:57:44.054733Z",
+    "temperature_c": 51.6,
+    "humidity": 66.5,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T08:34:44.054742Z",
+    "temperature_c": 46.5,
+    "humidity": 31.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T00:36:44.054750Z",
+    "temperature_c": 64.7,
+    "humidity": 42.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T07:43:44.054759Z",
+    "temperature_c": 50.1,
+    "humidity": 93.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T00:05:44.054768Z",
+    "temperature_c": 56.6,
+    "humidity": 24.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T10:31:44.054777Z",
+    "temperature_c": 47.5,
+    "humidity": 8.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T14:30:44.054785Z",
+    "temperature_c": -19.9,
+    "humidity": 21.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T22:28:44.054795Z",
+    "temperature_c": -13.8,
+    "humidity": 36.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T14:18:44.054803Z",
+    "temperature_c": 22.6,
+    "humidity": 54.1,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T13:07:44.054813Z",
+    "temperature_c": 7.3,
+    "humidity": 58.0,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T15:25:44.054823Z",
+    "temperature_c": 24.8,
+    "humidity": 64.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T10:37:44.054832Z",
+    "temperature_c": 70.2,
+    "humidity": 84.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T23:03:44.054841Z",
+    "temperature_c": -16.7,
+    "humidity": 46.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T21:30:44.054849Z",
+    "temperature_c": 6.1,
+    "humidity": 84.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T18:06:44.054858Z",
+    "temperature_c": 11.3,
+    "humidity": 67.7,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T11:14:44.054867Z",
+    "temperature_c": 66.2,
+    "humidity": 52.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T12:10:44.054876Z",
+    "temperature_c": 2.8,
+    "humidity": 64.7,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T15:59:44.054884Z",
+    "temperature_c": 62.0,
+    "humidity": 56.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T08:13:44.054892Z",
+    "temperature_c": 35.1,
+    "humidity": 17.6,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T07:28:44.054901Z",
+    "temperature_c": 28.0,
+    "humidity": 85.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-27T11:48:44.054909Z",
+    "temperature_c": 6.8,
+    "humidity": 47.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T00:12:44.054918Z",
+    "temperature_c": 16.5,
+    "humidity": 84.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T08:26:44.054926Z",
+    "temperature_c": 77.6,
+    "humidity": 35.9,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T00:46:44.054934Z",
+    "temperature_c": 75.9,
+    "humidity": 30.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T19:27:44.054959Z",
+    "temperature_c": 25.3,
+    "humidity": 31.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T20:58:44.054969Z",
+    "temperature_c": -9.2,
+    "humidity": 48.0,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T21:29:44.054978Z",
+    "temperature_c": -14.2,
+    "humidity": 46.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T05:11:44.054992Z",
+    "temperature_c": 24.5,
+    "humidity": 54.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T21:13:44.055079Z",
+    "temperature_c": -7.8,
+    "humidity": 62.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T23:48:44.055094Z",
+    "temperature_c": 24.0,
+    "humidity": 48.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T15:18:44.055109Z",
+    "temperature_c": -1.5,
+    "humidity": 71.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T14:00:44.055132Z",
+    "temperature_c": 61.6,
+    "humidity": 79.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T19:00:44.055141Z",
+    "temperature_c": 33.1,
+    "humidity": 69.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T06:59:44.055149Z",
+    "temperature_c": 72.9,
+    "humidity": 56.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T05:05:44.055160Z",
+    "temperature_c": 36.8,
+    "humidity": 92.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T02:14:44.055168Z",
+    "temperature_c": 57.7,
+    "humidity": 79.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T00:38:44.055178Z",
+    "temperature_c": 46.8,
+    "humidity": 59.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T22:00:44.055187Z",
+    "temperature_c": -8.7,
+    "humidity": 82.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T03:51:44.055197Z",
+    "temperature_c": 5.5,
+    "humidity": 60.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T11:59:44.055206Z",
+    "temperature_c": -19.0,
+    "humidity": 27.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T15:48:44.055214Z",
+    "temperature_c": 20.5,
+    "humidity": 7.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T14:15:44.055223Z",
+    "temperature_c": 36.8,
+    "humidity": 59.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T12:21:44.055232Z",
+    "temperature_c": 31.7,
+    "humidity": 83.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T06:36:44.055240Z",
+    "temperature_c": 38.6,
+    "humidity": 56.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T07:19:44.055249Z",
+    "temperature_c": 55.0,
+    "humidity": 46.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T02:32:44.055257Z",
+    "temperature_c": -0.0,
+    "humidity": 83.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T13:29:44.055266Z",
+    "temperature_c": 48.5,
+    "humidity": 55.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T20:15:44.055275Z",
+    "temperature_c": 77.8,
+    "humidity": 70.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T13:07:44.055283Z",
+    "temperature_c": 28.5,
+    "humidity": 66.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T00:48:44.055292Z",
+    "temperature_c": -6.1,
+    "humidity": 60.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T10:56:44.055301Z",
+    "temperature_c": 73.6,
+    "humidity": 42.4,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T18:29:44.055309Z",
+    "temperature_c": 0.1,
+    "humidity": 6.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T16:55:44.055318Z",
+    "temperature_c": -10.9,
+    "humidity": 65.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-21T09:57:44.055327Z",
+    "temperature_c": 22.9,
+    "humidity": 38.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T04:15:44.055336Z",
+    "temperature_c": -3.0,
+    "humidity": 7.2,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T14:04:44.055350Z",
+    "temperature_c": 21.3,
+    "humidity": 21.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T08:02:44.055364Z",
+    "temperature_c": 71.3,
+    "humidity": 24.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T13:20:44.055378Z",
+    "temperature_c": 31.0,
+    "humidity": 61.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T15:04:44.055387Z",
+    "temperature_c": 28.1,
+    "humidity": 57.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T03:41:44.055397Z",
+    "temperature_c": 10.5,
+    "humidity": 28.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T20:05:44.055406Z",
+    "temperature_c": 55.8,
+    "humidity": 20.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T18:03:44.055414Z",
+    "temperature_c": 60.0,
+    "humidity": 14.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T03:38:44.055427Z",
+    "temperature_c": 48.9,
+    "humidity": 63.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T12:33:44.055445Z",
+    "temperature_c": 45.9,
+    "humidity": 28.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T01:20:44.055456Z",
+    "temperature_c": -11.3,
+    "humidity": 31.2,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-26T16:37:44.055471Z",
+    "temperature_c": 78.0,
+    "humidity": 42.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T18:40:44.055486Z",
+    "temperature_c": 66.8,
+    "humidity": 37.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T10:18:44.055495Z",
+    "temperature_c": 77.2,
+    "humidity": 82.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T17:01:44.055506Z",
+    "temperature_c": 25.3,
+    "humidity": 43.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T12:41:44.055515Z",
+    "temperature_c": 41.5,
+    "humidity": 67.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T14:02:44.055525Z",
+    "temperature_c": -9.6,
+    "humidity": 23.6,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-21T23:29:44.055533Z",
+    "temperature_c": 8.1,
+    "humidity": 70.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T10:57:44.055543Z",
+    "temperature_c": 48.8,
+    "humidity": 10.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T23:05:44.055552Z",
+    "temperature_c": 38.4,
+    "humidity": 31.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T19:31:44.055561Z",
+    "temperature_c": 13.0,
+    "humidity": 34.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-21T17:07:44.055574Z",
+    "temperature_c": 64.4,
+    "humidity": 7.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T06:24:44.055588Z",
+    "temperature_c": 74.7,
+    "humidity": 33.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T12:25:44.055597Z",
+    "temperature_c": 67.7,
+    "humidity": 82.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T16:17:44.055606Z",
+    "temperature_c": 41.0,
+    "humidity": 74.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T11:57:44.055614Z",
+    "temperature_c": 75.7,
+    "humidity": 49.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T22:13:44.055623Z",
+    "temperature_c": 22.6,
+    "humidity": 29.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-26T05:46:44.055632Z",
+    "temperature_c": 72.4,
+    "humidity": 49.5,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T09:34:44.055640Z",
+    "temperature_c": 47.8,
+    "humidity": 87.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T05:41:44.055648Z",
+    "temperature_c": 12.5,
+    "humidity": 35.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T04:57:44.055657Z",
+    "temperature_c": 15.4,
+    "humidity": 67.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T20:44:44.055665Z",
+    "temperature_c": 79.5,
+    "humidity": 44.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T12:31:44.055673Z",
+    "temperature_c": 19.3,
+    "humidity": 92.7,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T13:13:44.055682Z",
+    "temperature_c": 60.2,
+    "humidity": 71.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T00:25:44.055690Z",
+    "temperature_c": 30.9,
+    "humidity": 67.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T16:17:44.055699Z",
+    "temperature_c": 30.5,
+    "humidity": 94.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T18:00:44.055708Z",
+    "temperature_c": 11.3,
+    "humidity": 36.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T13:53:44.055724Z",
+    "temperature_c": 16.2,
+    "humidity": 50.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T21:02:44.055745Z",
+    "temperature_c": 55.9,
+    "humidity": 8.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T14:23:44.055753Z",
+    "temperature_c": 78.1,
+    "humidity": 93.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T01:35:44.055762Z",
+    "temperature_c": 28.0,
+    "humidity": 60.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T15:17:44.055770Z",
+    "temperature_c": -12.6,
+    "humidity": 7.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T22:49:44.055779Z",
+    "temperature_c": 63.7,
+    "humidity": 40.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T21:55:44.055788Z",
+    "temperature_c": 34.5,
+    "humidity": 83.7,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T01:55:44.055797Z",
+    "temperature_c": 29.7,
+    "humidity": 14.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T07:19:44.055805Z",
+    "temperature_c": 14.7,
+    "humidity": 10.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T23:07:44.055814Z",
+    "temperature_c": 31.0,
+    "humidity": 75.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T05:41:44.055823Z",
+    "temperature_c": 29.6,
+    "humidity": 74.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T11:08:44.055832Z",
+    "temperature_c": 21.7,
+    "humidity": 19.7,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T15:49:44.055841Z",
+    "temperature_c": 52.2,
+    "humidity": 20.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T02:24:44.055849Z",
+    "temperature_c": 50.1,
+    "humidity": 11.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T23:27:44.055857Z",
+    "temperature_c": 69.6,
+    "humidity": 22.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T14:33:44.055866Z",
+    "temperature_c": 53.2,
+    "humidity": 9.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T03:22:44.055875Z",
+    "temperature_c": -2.9,
+    "humidity": 65.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T20:46:44.055885Z",
+    "temperature_c": -10.2,
+    "humidity": 73.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T05:54:44.055894Z",
+    "temperature_c": -13.4,
+    "humidity": 26.2,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T00:59:44.055903Z",
+    "temperature_c": -2.1,
+    "humidity": 82.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T11:37:44.055911Z",
+    "temperature_c": 31.8,
+    "humidity": 70.0,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T05:19:44.055920Z",
+    "temperature_c": 67.3,
+    "humidity": 69.1,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T09:09:44.055928Z",
+    "temperature_c": -14.5,
+    "humidity": 7.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T00:18:44.055937Z",
+    "temperature_c": -2.1,
+    "humidity": 62.2,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T05:52:44.055945Z",
+    "temperature_c": 30.3,
+    "humidity": 40.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T10:28:44.055954Z",
+    "temperature_c": -2.9,
+    "humidity": 38.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T02:43:44.055962Z",
+    "temperature_c": 27.8,
+    "humidity": 16.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T05:02:44.055970Z",
+    "temperature_c": 33.9,
+    "humidity": 24.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T21:06:44.055979Z",
+    "temperature_c": -19.8,
+    "humidity": 17.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T12:56:44.055988Z",
+    "temperature_c": 41.6,
+    "humidity": 20.9,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T05:25:44.055996Z",
+    "temperature_c": -3.3,
+    "humidity": 87.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T04:46:44.056005Z",
+    "temperature_c": 0.2,
+    "humidity": 9.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T01:49:44.056013Z",
+    "temperature_c": 35.4,
+    "humidity": 13.6,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T00:08:44.056022Z",
+    "temperature_c": 61.0,
+    "humidity": 57.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T04:50:44.056031Z",
+    "temperature_c": -5.0,
+    "humidity": 45.0,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T10:29:44.056040Z",
+    "temperature_c": 60.8,
+    "humidity": 88.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T12:16:44.056048Z",
+    "temperature_c": 23.8,
+    "humidity": 69.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T01:53:44.056057Z",
+    "temperature_c": 71.1,
+    "humidity": 91.7,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T15:10:44.056065Z",
+    "temperature_c": -1.5,
+    "humidity": 49.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T23:29:44.056074Z",
+    "temperature_c": 2.2,
+    "humidity": 34.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T10:23:44.056083Z",
+    "temperature_c": 55.5,
+    "humidity": 85.7,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T18:37:44.056092Z",
+    "temperature_c": 5.4,
+    "humidity": 24.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T11:49:44.056101Z",
+    "temperature_c": 25.8,
+    "humidity": 21.8,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T16:08:44.056109Z",
+    "temperature_c": -1.5,
+    "humidity": 45.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T07:42:44.056118Z",
+    "temperature_c": -11.2,
+    "humidity": 76.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T13:02:44.056133Z",
+    "temperature_c": 50.2,
+    "humidity": 69.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T12:19:44.056141Z",
+    "temperature_c": 21.0,
+    "humidity": 74.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T08:02:44.056150Z",
+    "temperature_c": 10.2,
+    "humidity": 75.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T06:29:44.056159Z",
+    "temperature_c": 54.3,
+    "humidity": 38.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T14:04:44.056172Z",
+    "temperature_c": 24.0,
+    "humidity": 30.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T06:31:44.056200Z",
+    "temperature_c": 59.8,
+    "humidity": 10.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T01:02:44.056215Z",
+    "temperature_c": 23.2,
+    "humidity": 50.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T06:56:44.056239Z",
+    "temperature_c": 9.5,
+    "humidity": 48.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T09:49:44.056253Z",
+    "temperature_c": -16.4,
+    "humidity": 72.5,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T04:44:44.056262Z",
+    "temperature_c": 73.7,
+    "humidity": 91.2,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T02:09:44.056272Z",
+    "temperature_c": 10.4,
+    "humidity": 11.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T11:36:44.056280Z",
+    "temperature_c": 19.6,
+    "humidity": 14.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T16:37:44.056289Z",
+    "temperature_c": 58.2,
+    "humidity": 77.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-21T16:40:44.056298Z",
+    "temperature_c": 65.3,
+    "humidity": 6.1,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T05:03:44.056306Z",
+    "temperature_c": 78.8,
+    "humidity": 55.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T21:40:44.056315Z",
+    "temperature_c": 73.3,
+    "humidity": 80.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T18:47:44.056323Z",
+    "temperature_c": 17.8,
+    "humidity": 78.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T12:12:44.056332Z",
+    "temperature_c": 22.5,
+    "humidity": 79.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T10:13:44.056340Z",
+    "temperature_c": 9.4,
+    "humidity": 82.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T00:58:44.056348Z",
+    "temperature_c": 73.6,
+    "humidity": 9.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T23:56:44.056357Z",
+    "temperature_c": 70.7,
+    "humidity": 57.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T10:37:44.056365Z",
+    "temperature_c": 15.0,
+    "humidity": 44.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T20:34:44.056375Z",
+    "temperature_c": -18.5,
+    "humidity": 48.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T09:14:44.056383Z",
+    "temperature_c": 49.3,
+    "humidity": 87.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T04:11:44.056392Z",
+    "temperature_c": -2.2,
+    "humidity": 31.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T17:24:44.056400Z",
+    "temperature_c": -9.4,
+    "humidity": 20.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T11:15:44.056412Z",
+    "temperature_c": 21.5,
+    "humidity": 69.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T01:04:44.056425Z",
+    "temperature_c": 11.1,
+    "humidity": 22.3,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T09:50:44.056442Z",
+    "temperature_c": 2.3,
+    "humidity": 87.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T21:11:44.056455Z",
+    "temperature_c": 53.7,
+    "humidity": 27.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T13:43:44.056465Z",
+    "temperature_c": 57.3,
+    "humidity": 58.1,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T22:20:44.056473Z",
+    "temperature_c": 58.1,
+    "humidity": 31.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T04:29:44.056486Z",
+    "temperature_c": 65.8,
+    "humidity": 66.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T04:45:44.056497Z",
+    "temperature_c": 12.0,
+    "humidity": 28.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T07:14:44.056512Z",
+    "temperature_c": 68.0,
+    "humidity": 22.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T02:36:44.056525Z",
+    "temperature_c": 61.4,
+    "humidity": 21.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T21:17:44.056540Z",
+    "temperature_c": 58.8,
+    "humidity": 76.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T08:00:44.056551Z",
+    "temperature_c": -13.1,
+    "humidity": 9.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T12:29:44.056560Z",
+    "temperature_c": -14.9,
+    "humidity": 53.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T16:32:44.056569Z",
+    "temperature_c": 38.2,
+    "humidity": 39.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T20:05:44.056577Z",
+    "temperature_c": 43.5,
+    "humidity": 67.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T17:57:44.056589Z",
+    "temperature_c": 28.8,
+    "humidity": 30.2,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T08:48:44.056723Z",
+    "temperature_c": -12.0,
+    "humidity": 27.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T05:43:44.056736Z",
+    "temperature_c": -10.7,
+    "humidity": 85.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T16:05:44.056750Z",
+    "temperature_c": 38.8,
+    "humidity": 76.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T17:38:44.056759Z",
+    "temperature_c": 14.2,
+    "humidity": 24.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T01:17:44.056768Z",
+    "temperature_c": 4.9,
+    "humidity": 35.6,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T16:10:44.056777Z",
+    "temperature_c": 41.2,
+    "humidity": 9.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-21T08:17:44.056793Z",
+    "temperature_c": 71.0,
+    "humidity": 46.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T09:45:44.056806Z",
+    "temperature_c": 58.9,
+    "humidity": 91.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-27T01:33:44.056815Z",
+    "temperature_c": 57.3,
+    "humidity": 55.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T23:33:44.056825Z",
+    "temperature_c": -0.3,
+    "humidity": 67.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T18:44:44.056834Z",
+    "temperature_c": 35.7,
+    "humidity": 79.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T17:44:44.056844Z",
+    "temperature_c": 2.3,
+    "humidity": 92.4,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T18:40:44.056858Z",
+    "temperature_c": 20.8,
+    "humidity": 66.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T00:42:44.056870Z",
+    "temperature_c": 59.9,
+    "humidity": 71.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T10:09:44.056883Z",
+    "temperature_c": 48.1,
+    "humidity": 63.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T15:55:44.056896Z",
+    "temperature_c": 13.4,
+    "humidity": 71.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-21T17:07:44.056911Z",
+    "temperature_c": 70.9,
+    "humidity": 41.4,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T08:51:44.056926Z",
+    "temperature_c": 25.1,
+    "humidity": 59.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T13:41:44.056942Z",
+    "temperature_c": 32.5,
+    "humidity": 69.0,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T23:46:44.056956Z",
+    "temperature_c": -3.1,
+    "humidity": 91.9,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T22:36:44.056976Z",
+    "temperature_c": 70.1,
+    "humidity": 43.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T15:47:44.056990Z",
+    "temperature_c": 49.8,
+    "humidity": 49.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-21T23:01:44.057008Z",
+    "temperature_c": 39.1,
+    "humidity": 67.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T21:36:44.057021Z",
+    "temperature_c": 74.2,
+    "humidity": 73.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T14:30:44.057030Z",
+    "temperature_c": 39.6,
+    "humidity": 70.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T11:40:44.057038Z",
+    "temperature_c": 6.2,
+    "humidity": 62.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T22:10:44.057050Z",
+    "temperature_c": -17.6,
+    "humidity": 37.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T17:40:44.057060Z",
+    "temperature_c": 78.6,
+    "humidity": 40.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T17:38:44.057069Z",
+    "temperature_c": 16.0,
+    "humidity": 19.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T04:21:44.057077Z",
+    "temperature_c": 49.9,
+    "humidity": 86.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T00:42:44.057086Z",
+    "temperature_c": 71.1,
+    "humidity": 86.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T03:01:44.057095Z",
+    "temperature_c": 13.5,
+    "humidity": 32.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T12:12:44.057104Z",
+    "temperature_c": 50.7,
+    "humidity": 10.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T05:05:44.057113Z",
+    "temperature_c": -11.3,
+    "humidity": 75.1,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-27T05:54:44.057122Z",
+    "temperature_c": 9.4,
+    "humidity": 57.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T14:26:44.057130Z",
+    "temperature_c": -14.7,
+    "humidity": 23.7,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T02:06:44.057139Z",
+    "temperature_c": 57.4,
+    "humidity": 90.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T18:47:44.057148Z",
+    "temperature_c": -2.4,
+    "humidity": 26.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T22:42:44.057156Z",
+    "temperature_c": 41.1,
+    "humidity": 79.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T13:44:44.057168Z",
+    "temperature_c": -7.9,
+    "humidity": 71.6,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T08:26:44.057177Z",
+    "temperature_c": 19.3,
+    "humidity": 74.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-21T07:15:44.057185Z",
+    "temperature_c": 69.4,
+    "humidity": 49.2,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T03:51:44.057194Z",
+    "temperature_c": -15.6,
+    "humidity": 86.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T15:37:44.057202Z",
+    "temperature_c": -1.1,
+    "humidity": 62.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T11:45:44.057211Z",
+    "temperature_c": 1.3,
+    "humidity": 14.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T13:29:44.057220Z",
+    "temperature_c": 28.2,
+    "humidity": 35.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T04:56:44.057228Z",
+    "temperature_c": 59.9,
+    "humidity": 59.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T13:11:44.057238Z",
+    "temperature_c": 65.2,
+    "humidity": 61.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T15:43:44.057252Z",
+    "temperature_c": 70.6,
+    "humidity": 83.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T17:05:44.057266Z",
+    "temperature_c": -11.2,
+    "humidity": 87.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T06:07:44.057289Z",
+    "temperature_c": 76.4,
+    "humidity": 36.2,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T02:39:44.057309Z",
+    "temperature_c": 20.2,
+    "humidity": 34.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T05:02:44.057320Z",
+    "temperature_c": 65.2,
+    "humidity": 55.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-26T21:35:44.057329Z",
+    "temperature_c": 17.1,
+    "humidity": 39.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T17:31:44.057345Z",
+    "temperature_c": -11.7,
+    "humidity": 75.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-26T22:45:44.057354Z",
+    "temperature_c": 31.1,
+    "humidity": 30.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T10:59:44.057363Z",
+    "temperature_c": 16.5,
+    "humidity": 78.7,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T20:24:44.057375Z",
+    "temperature_c": -14.9,
+    "humidity": 27.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-27T23:50:44.057383Z",
+    "temperature_c": 18.8,
+    "humidity": 76.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T20:09:44.057392Z",
+    "temperature_c": 6.7,
+    "humidity": 79.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T17:51:44.057406Z",
+    "temperature_c": 57.9,
+    "humidity": 80.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T01:56:44.057415Z",
+    "temperature_c": 19.6,
+    "humidity": 18.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T19:27:44.057425Z",
+    "temperature_c": 24.1,
+    "humidity": 25.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T14:01:44.057435Z",
+    "temperature_c": 60.0,
+    "humidity": 90.9,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T23:16:44.057443Z",
+    "temperature_c": 57.1,
+    "humidity": 46.2,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T19:41:44.057452Z",
+    "temperature_c": 33.8,
+    "humidity": 76.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T07:43:44.057460Z",
+    "temperature_c": 23.2,
+    "humidity": 82.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T07:55:44.057469Z",
+    "temperature_c": 55.9,
+    "humidity": 56.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T22:49:44.057478Z",
+    "temperature_c": 32.4,
+    "humidity": 77.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T08:29:44.057486Z",
+    "temperature_c": 19.7,
+    "humidity": 41.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T00:44:44.057498Z",
+    "temperature_c": 69.5,
+    "humidity": 44.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T12:52:44.057512Z",
+    "temperature_c": 78.2,
+    "humidity": 5.8,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T18:52:44.057527Z",
+    "temperature_c": -9.0,
+    "humidity": 59.1,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T19:50:44.057536Z",
+    "temperature_c": 32.2,
+    "humidity": 16.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T12:16:44.057545Z",
+    "temperature_c": 44.2,
+    "humidity": 74.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T03:54:44.057599Z",
+    "temperature_c": 12.6,
+    "humidity": 14.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T11:48:44.057615Z",
+    "temperature_c": 16.3,
+    "humidity": 9.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T21:11:44.057634Z",
+    "temperature_c": 63.5,
+    "humidity": 86.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T19:23:44.057643Z",
+    "temperature_c": 53.2,
+    "humidity": 92.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T04:39:44.057651Z",
+    "temperature_c": 57.9,
+    "humidity": 76.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T13:51:44.057662Z",
+    "temperature_c": 43.1,
+    "humidity": 21.7,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-21T06:26:44.057670Z",
+    "temperature_c": 36.2,
+    "humidity": 87.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T15:00:44.057680Z",
+    "temperature_c": 37.6,
+    "humidity": 74.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T12:14:44.057689Z",
+    "temperature_c": 11.7,
+    "humidity": 44.0,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T08:22:44.057697Z",
+    "temperature_c": 0.0,
+    "humidity": 68.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T19:24:44.057706Z",
+    "temperature_c": 79.6,
+    "humidity": 71.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T18:43:44.057723Z",
+    "temperature_c": -8.3,
+    "humidity": 15.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T16:33:44.057738Z",
+    "temperature_c": 5.2,
+    "humidity": 25.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T14:03:44.057746Z",
+    "temperature_c": 46.6,
+    "humidity": 66.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T18:16:44.057755Z",
+    "temperature_c": -9.4,
+    "humidity": 35.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T04:46:44.057767Z",
+    "temperature_c": 38.5,
+    "humidity": 79.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-24T15:25:44.057775Z",
+    "temperature_c": -7.5,
+    "humidity": 23.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T23:06:44.057784Z",
+    "temperature_c": 41.1,
+    "humidity": 32.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T21:56:44.057792Z",
+    "temperature_c": 46.2,
+    "humidity": 47.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T14:26:44.057804Z",
+    "temperature_c": 45.3,
+    "humidity": 89.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-21T03:07:44.057813Z",
+    "temperature_c": 2.8,
+    "humidity": 18.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T12:14:44.057821Z",
+    "temperature_c": 33.7,
+    "humidity": 38.3,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T04:18:44.057829Z",
+    "temperature_c": 78.4,
+    "humidity": 50.3,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T13:16:44.057838Z",
+    "temperature_c": -13.8,
+    "humidity": 40.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T00:16:44.057847Z",
+    "temperature_c": -4.5,
+    "humidity": 82.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T12:05:44.058290Z",
+    "temperature_c": 65.8,
+    "humidity": 85.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-27T19:37:44.058338Z",
+    "temperature_c": -15.7,
+    "humidity": 29.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T20:48:44.058351Z",
+    "temperature_c": -3.7,
+    "humidity": 75.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-26T20:23:44.058361Z",
+    "temperature_c": 3.4,
+    "humidity": 32.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T15:54:44.058371Z",
+    "temperature_c": 2.0,
+    "humidity": 47.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T17:42:44.058381Z",
+    "temperature_c": -4.4,
+    "humidity": 25.6,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T06:17:44.058391Z",
+    "temperature_c": 38.2,
+    "humidity": 49.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T15:14:44.058405Z",
+    "temperature_c": -2.8,
+    "humidity": 23.0,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T15:19:44.058419Z",
+    "temperature_c": 35.4,
+    "humidity": 40.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T11:10:44.058433Z",
+    "temperature_c": 28.5,
+    "humidity": 41.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-23T01:46:44.058446Z",
+    "temperature_c": 14.8,
+    "humidity": 30.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T06:42:44.058455Z",
+    "temperature_c": -15.9,
+    "humidity": 11.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T17:52:44.058480Z",
+    "temperature_c": 58.0,
+    "humidity": 38.0,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-26T22:14:44.058496Z",
+    "temperature_c": 60.0,
+    "humidity": 71.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-005",
+    "timestamp": "2025-03-28T00:39:44.058513Z",
+    "temperature_c": 52.2,
+    "humidity": 61.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T20:42:44.058529Z",
+    "temperature_c": 20.0,
+    "humidity": 37.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-27T05:07:44.058540Z",
+    "temperature_c": 49.3,
+    "humidity": 5.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-21T06:33:44.058550Z",
+    "temperature_c": 2.5,
+    "humidity": 59.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T05:48:44.058564Z",
+    "temperature_c": -16.7,
+    "humidity": 27.4,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T16:18:44.058588Z",
+    "temperature_c": 3.7,
+    "humidity": 15.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-22T22:58:44.058597Z",
+    "temperature_c": 38.2,
+    "humidity": 57.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T18:30:44.058607Z",
+    "temperature_c": 47.0,
+    "humidity": 11.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T17:49:44.058616Z",
+    "temperature_c": 5.8,
+    "humidity": 44.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-27T19:36:44.058625Z",
+    "temperature_c": 55.6,
+    "humidity": 20.1,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-26T16:23:44.058638Z",
+    "temperature_c": -3.9,
+    "humidity": 82.8,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T04:19:44.058653Z",
+    "temperature_c": 44.4,
+    "humidity": 67.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-003",
+    "timestamp": "2025-03-21T14:01:44.058668Z",
+    "temperature_c": 2.6,
+    "humidity": 90.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-22T10:21:44.058682Z",
+    "temperature_c": -5.8,
+    "humidity": 90.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T13:25:44.058712Z",
+    "temperature_c": 35.9,
+    "humidity": 87.0,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T07:23:44.058727Z",
+    "temperature_c": 14.3,
+    "humidity": 12.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T03:06:44.058751Z",
+    "temperature_c": 25.9,
+    "humidity": 69.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T15:10:44.058761Z",
+    "temperature_c": 25.3,
+    "humidity": 55.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-23T12:59:44.058770Z",
+    "temperature_c": -1.5,
+    "humidity": 74.6,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T16:12:44.058784Z",
+    "temperature_c": 52.0,
+    "humidity": 73.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T02:10:44.058799Z",
+    "temperature_c": 37.7,
+    "humidity": 15.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-004",
+    "timestamp": "2025-03-23T05:23:44.058817Z",
+    "temperature_c": 7.0,
+    "humidity": 56.2,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-27T23:54:44.058826Z",
+    "temperature_c": 65.9,
+    "humidity": 89.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-004",
+    "timestamp": "2025-03-25T03:24:44.058834Z",
+    "temperature_c": 41.9,
+    "humidity": 35.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-002",
+    "timestamp": "2025-03-25T01:31:44.058844Z",
+    "temperature_c": -8.1,
+    "humidity": 64.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-25T13:55:44.058859Z",
+    "temperature_c": 36.0,
+    "humidity": 80.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-004",
+    "timestamp": "2025-03-26T19:34:44.058880Z",
+    "temperature_c": -18.6,
+    "humidity": 42.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-25T04:39:44.058889Z",
+    "temperature_c": 53.7,
+    "humidity": 25.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T18:52:44.058898Z",
+    "temperature_c": 25.7,
+    "humidity": 79.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T03:01:44.058907Z",
+    "temperature_c": 57.9,
+    "humidity": 13.4,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-23T11:49:44.058916Z",
+    "temperature_c": 72.3,
+    "humidity": 91.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-21T21:33:44.058925Z",
+    "temperature_c": 22.8,
+    "humidity": 11.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-001",
+    "timestamp": "2025-03-22T00:53:44.058936Z",
+    "temperature_c": 29.8,
+    "humidity": 65.9,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-23T01:57:44.058945Z",
+    "temperature_c": 57.0,
+    "humidity": 91.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-005",
+    "timestamp": "2025-03-25T03:50:44.058957Z",
+    "temperature_c": 11.8,
+    "humidity": 7.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-005",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T14:44:44.058966Z",
+    "temperature_c": 32.5,
+    "humidity": 14.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-005",
+    "timestamp": "2025-03-24T10:37:44.058977Z",
+    "temperature_c": 74.4,
+    "humidity": 90.5,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-004",
+    "device_id": "device-003",
+    "timestamp": "2025-03-22T09:45:44.058995Z",
+    "temperature_c": 17.9,
+    "humidity": 53.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-001",
+    "timestamp": "2025-03-26T03:38:44.059053Z",
+    "temperature_c": 65.4,
+    "humidity": 56.3,
+    "status": "error"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-002",
+    "timestamp": "2025-03-22T01:41:44.059068Z",
+    "temperature_c": -17.5,
+    "humidity": 87.9,
+    "status": "warning"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-002",
+    "timestamp": "2025-03-24T03:42:44.059087Z",
+    "temperature_c": 43.6,
+    "humidity": 45.8,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-002",
+    "device_id": "device-004",
+    "timestamp": "2025-03-24T11:12:44.059110Z",
+    "temperature_c": -18.1,
+    "humidity": 31.0,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-003",
+    "timestamp": "2025-03-21T17:24:44.059124Z",
+    "temperature_c": 29.8,
+    "humidity": 5.3,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-001",
+    "device_id": "device-001",
+    "timestamp": "2025-03-24T07:41:44.059138Z",
+    "temperature_c": 75.9,
+    "humidity": 73.7,
+    "status": "ok"
+  },
+  {
+    "mesh_id": "mesh-003",
+    "device_id": "device-005",
+    "timestamp": "2025-03-27T12:03:44.059151Z",
+    "temperature_c": 59.9,
+    "humidity": 64.1,
+    "status": "ok"
+  }
+]

@@ -1,0 +1,66 @@
+---
+# Defines the pipeline as a list of operators
+
+- operator:
+    name: "Convert from UTC to EST"
+    class: ConvertTimezone
+    input_field: timestamp
+    output_field: timestamp_est
+    tz: "America/New_York"
+
+- operator:
+    name: "Convert Celcius to Fahrenheit"
+    class: ConvertTemperatureCToF
+    input_field: temperature_c
+    output_field: temperature_f
+
+- operator:
+    name: "Group by mesh_id"
+    class: GroupBy
+    key_field: mesh_id
+
+- operator:
+    name: "Aggregate average temperature (c)"
+    class: Aggregate
+    input_field: temperature_c
+    function: avg
+    output_field: temperature_avg_c
+
+- operator:
+    name: "Aggregate average temperature (f)"
+    class: Aggregate
+    input_field: temperature_f
+    function: avg
+    output_field: temperature_avg_f
+
+- operator:
+    name: "Aggregate average humidity"
+    class: Aggregate
+    input_field: humidity
+    function: avg
+    output_field: humidity_avg
+
+- operator:
+    name: "Aggregate record count"
+    class: Aggregate
+    function: count
+    output_field: count
+
+- operator:
+    name: "Detect high temperature anomaly"
+    class: AnomalyDetection
+    input_field: temperature_c
+    limits: { min: -10, max: 60 }
+    include_status: true
+    output_field: temperature_alert
+
+- operator:
+    name: "Detect high humidity anomaly"
+    class: AnomalyDetection
+    input_field: humidity
+    limits: { min: 10, max: 90 }
+    output_field: humidity_alert
+
+#[[operator]]
+#name = "DropField"
+#input_field = "records"
